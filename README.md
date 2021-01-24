@@ -1,0 +1,6 @@
+```
+AP : A505FNXXS5BTLA
+CSC : A505FNOXM5BTK5 (DBT)
+Android : Q(Android 10)
+Build Date : 20201222194104
+```
